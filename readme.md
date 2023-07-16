@@ -18,7 +18,7 @@
 
 <h3 align="center">GitHub Trophies</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=goodjack&theme=onedark&column=9&margin-w=2&margin-h=2&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=goodjack&theme=onedark&column=-1&margin-w=2&margin-h=2&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="center">GitHub Stats</h3>
 
